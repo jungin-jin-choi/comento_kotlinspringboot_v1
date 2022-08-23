@@ -5,7 +5,6 @@ import org.springframework.boot.runApplication
 
 @SpringBootApplication
 class DblessApplication
-
 fun main(args: Array<String>) {
 	runApplication<DblessApplication>(*args)
 }
